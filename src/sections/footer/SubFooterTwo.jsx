@@ -1,9 +1,9 @@
 import React from "react";
-import Facebook from "./logo/facebook";
 import Insta from "./logo/Insta";
 import Twitter from "./logo/Twitter";
 import Github from "./logo/Github";
 import Ball from "./logo/Ball";
+import Facebook from "./logo/facebook";
 
 const SubFooterTwo = () => {
   return (
@@ -44,7 +44,7 @@ const SubFooterTwo = () => {
               href="#"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
             >
-              <Facebook/>
+            <Facebook/>              
             </a>
           </li>
           <li>
