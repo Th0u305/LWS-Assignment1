@@ -1,4 +1,3 @@
-import React from "react";
 import GithubLogo from "./GithubLogo";
 import FigmaLogo from "./FigmaLogo";
 

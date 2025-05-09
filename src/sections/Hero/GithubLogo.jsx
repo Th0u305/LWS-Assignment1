@@ -1,5 +1,3 @@
-import React from "react";
-
 const GithubLogo = () => {
   return (
     <>
@@ -19,5 +17,4 @@ const GithubLogo = () => {
     </>
   );
 };
-
 export default GithubLogo;
