@@ -8,7 +8,7 @@ const Header = () => {
           <div className="flex flex-wrap items-center justify-between max-w-screen-xl px-4 mx-auto">
             <a href="#" className="flex items-center">
               <img
-                src="./src/assets/logo.svg"
+                src="./assets/logo.svg"
                 className="h-6 mr-3 sm:h-9"
                 alt="Landwind Logo"
               />

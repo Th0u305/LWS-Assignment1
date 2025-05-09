@@ -36,14 +36,14 @@ const ServiceOneList = () => {
         </div>
         <img
           className="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex"
-          src="./src/assets/features/feature-1.png"
+          src="./assets/features/feature-1.png"
           alt="dashboard feature image"
         />
       </div>
       <div className="items-center gap-8 lg:grid lg:grid-cols-2 xl:gap-16">
         <img
           className="hidden w-full mb-4 rounded-lg lg:mb-0 lg:flex"
-          src="./src/assets/features/feature-2.png"
+          src="./assets/features/feature-2.png"
           alt="feature image 2"
         />
         <div className="text-gray-500 sm:text-lg dark:text-gray-400">
