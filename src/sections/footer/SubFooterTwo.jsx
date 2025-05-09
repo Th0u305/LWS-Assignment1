@@ -3,7 +3,6 @@ import Insta from "./logo/Insta";
 import Twitter from "./logo/Twitter";
 import Github from "./logo/Github";
 import Ball from "./logo/Ball";
-import Facebook from "./logo/facebook";
 
 const SubFooterTwo = () => {
   return (
